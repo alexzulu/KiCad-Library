@@ -1,7 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ArduinoNano
-K arduino nano
-$ENDCMP
-#
 #End Doc Library
